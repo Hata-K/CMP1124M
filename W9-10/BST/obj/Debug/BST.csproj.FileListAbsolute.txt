@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\repos\BST\BST\bin\Debug\BST.exe.config
+C:\Users\Student\Documents\repos\BST\BST\bin\Debug\BST.exe
+C:\Users\Student\Documents\repos\BST\BST\bin\Debug\BST.pdb
+C:\Users\Student\Documents\repos\BST\BST\obj\Debug\BST.csprojAssemblyReference.cache
+C:\Users\Student\Documents\repos\BST\BST\obj\Debug\BST.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\repos\BST\BST\obj\Debug\BST.exe
+C:\Users\Student\Documents\repos\BST\BST\obj\Debug\BST.pdb
